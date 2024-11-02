@@ -2,8 +2,8 @@
 - 👀 I’m interested in Programming and CyberSecurity
 - 🌱 I’m currently learning Python Programming language...
 - 💞️ I’m looking to collaborate on Red Team Hacker CEH...
-- 📫 How to reach me merrimen41@gmail.com...
--    Donate me on Paypal @marlymutos
+- 📫 How to reach me deltastrikecybercrimeunit@proton.me
+-    Donate me bitcoin 
 <!---
 Darkparadoxs/Darkparadoxs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
